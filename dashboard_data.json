@@ -1,0 +1,650 @@
+{
+  "yearlyTrends": [
+    {
+      "year": 1995,
+      "count": 1
+    },
+    {
+      "year": 2001,
+      "count": 1
+    },
+    {
+      "year": 2002,
+      "count": 2
+    },
+    {
+      "year": 2003,
+      "count": 4
+    },
+    {
+      "year": 2004,
+      "count": 11
+    },
+    {
+      "year": 2005,
+      "count": 20
+    },
+    {
+      "year": 2006,
+      "count": 13
+    },
+    {
+      "year": 2007,
+      "count": 32
+    },
+    {
+      "year": 2008,
+      "count": 32
+    },
+    {
+      "year": 2009,
+      "count": 47
+    },
+    {
+      "year": 2010,
+      "count": 50
+    },
+    {
+      "year": 2011,
+      "count": 33
+    },
+    {
+      "year": 2012,
+      "count": 38
+    },
+    {
+      "year": 2013,
+      "count": 24
+    },
+    {
+      "year": 2014,
+      "count": 50
+    },
+    {
+      "year": 2015,
+      "count": 44
+    },
+    {
+      "year": 2016,
+      "count": 58
+    },
+    {
+      "year": 2017,
+      "count": 55
+    },
+    {
+      "year": 2018,
+      "count": 48
+    },
+    {
+      "year": 2019,
+      "count": 44
+    },
+    {
+      "year": 2020,
+      "count": 38
+    },
+    {
+      "year": 2021,
+      "count": 36
+    },
+    {
+      "year": 2022,
+      "count": 55
+    },
+    {
+      "year": 2023,
+      "count": 39
+    },
+    {
+      "year": 2024,
+      "count": 47
+    },
+    {
+      "year": 2025,
+      "count": 71
+    },
+    {
+      "year": 2026,
+      "count": 5
+    }
+  ],
+  "topKeywords": [
+    {
+      "keyword": "confucianism",
+      "count": 89
+    },
+    {
+      "keyword": "neo-confucianism",
+      "count": 73
+    },
+    {
+      "keyword": "수양",
+      "count": 72
+    },
+    {
+      "keyword": "주희",
+      "count": 72
+    },
+    {
+      "keyword": "공자",
+      "count": 71
+    },
+    {
+      "keyword": "성리학",
+      "count": 62
+    },
+    {
+      "keyword": "수양론",
+      "count": 56
+    },
+    {
+      "keyword": "self-cultivation",
+      "count": 46
+    },
+    {
+      "keyword": "맹자",
+      "count": 40
+    },
+    {
+      "keyword": "경(철학)",
+      "count": 36
+    },
+    {
+      "keyword": "성(철학)",
+      "count": 34
+    },
+    {
+      "keyword": "유학",
+      "count": 32
+    },
+    {
+      "keyword": "이황",
+      "count": 26
+    },
+    {
+      "keyword": "이이",
+      "count": 25
+    },
+    {
+      "keyword": "유가",
+      "count": 24
+    },
+    {
+      "keyword": "유교",
+      "count": 24
+    },
+    {
+      "keyword": "toegye",
+      "count": 21
+    },
+    {
+      "keyword": "군자",
+      "count": 20
+    },
+    {
+      "keyword": "순자",
+      "count": 18
+    },
+    {
+      "keyword": "yulgok",
+      "count": 18
+    },
+    {
+      "keyword": "성인",
+      "count": 16
+    },
+    {
+      "keyword": "mind",
+      "count": 16
+    },
+    {
+      "keyword": "논어",
+      "count": 15
+    },
+    {
+      "keyword": "중용",
+      "count": 15
+    },
+    {
+      "keyword": "정좌",
+      "count": 14
+    },
+    {
+      "keyword": "human nature",
+      "count": 14
+    },
+    {
+      "keyword": "예(철학)",
+      "count": 13
+    },
+    {
+      "keyword": "nature",
+      "count": 13
+    },
+    {
+      "keyword": "zhuangzi",
+      "count": 13
+    },
+    {
+      "keyword": "taoism",
+      "count": 13
+    }
+  ],
+  "topInstitutions": [
+    {
+      "institution": "성균관대학교",
+      "count": 107
+    },
+    {
+      "institution": "고려대학교",
+      "count": 30
+    },
+    {
+      "institution": "충남대학교",
+      "count": 27
+    },
+    {
+      "institution": "경북대학교",
+      "count": 27
+    },
+    {
+      "institution": "전북대학교",
+      "count": 27
+    },
+    {
+      "institution": "영산대학교",
+      "count": 25
+    },
+    {
+      "institution": "서울대학교",
+      "count": 22
+    },
+    {
+      "institution": "한림대학교",
+      "count": 21
+    },
+    {
+      "institution": "원광대학교",
+      "count": 20
+    },
+    {
+      "institution": "부산대학교",
+      "count": 19
+    },
+    {
+      "institution": "동국대학교",
+      "count": 17
+    },
+    {
+      "institution": "강원대학교",
+      "count": 17
+    },
+    {
+      "institution": "전남대학교",
+      "count": 17
+    },
+    {
+      "institution": "제주대학교",
+      "count": 14
+    },
+    {
+      "institution": "경상대학교",
+      "count": 14
+    },
+    {
+      "institution": "중앙대학교",
+      "count": 13
+    },
+    {
+      "institution": "연세대학교",
+      "count": 13
+    },
+    {
+      "institution": "서울교육대학교",
+      "count": 13
+    },
+    {
+      "institution": "단국대학교",
+      "count": 12
+    },
+    {
+      "institution": "영남대학교",
+      "count": 12
+    }
+  ],
+  "subjectFields": [
+    {
+      "field": "철학",
+      "count": 252
+    },
+    {
+      "field": "기타인문학",
+      "count": 217
+    },
+    {
+      "field": "유교학",
+      "count": 76
+    },
+    {
+      "field": "한국어와문학",
+      "count": 69
+    },
+    {
+      "field": "한국철학일반",
+      "count": 34
+    },
+    {
+      "field": "중국어와문학",
+      "count": 23
+    },
+    {
+      "field": "역사학",
+      "count": 22
+    },
+    {
+      "field": "교육학",
+      "count": 20
+    },
+    {
+      "field": "기타미술",
+      "count": 15
+    },
+    {
+      "field": "종교학",
+      "count": 13
+    },
+    {
+      "field": "원불교학",
+      "count": 11
+    },
+    {
+      "field": "사회학",
+      "count": 10
+    },
+    {
+      "field": "서예",
+      "count": 9
+    },
+    {
+      "field": "기타유교학",
+      "count": 9
+    },
+    {
+      "field": "학제간연구",
+      "count": 8
+    },
+    {
+      "field": "윤리교육학",
+      "count": 7
+    },
+    {
+      "field": "체육",
+      "count": 6
+    },
+    {
+      "field": "중국문화학",
+      "count": 5
+    },
+    {
+      "field": "지역불교및불교사연구",
+      "count": 5
+    },
+    {
+      "field": "기타철학일반",
+      "count": 5
+    },
+    {
+      "field": "기타교육학",
+      "count": 5
+    },
+    {
+      "field": "한국자생종교",
+      "count": 5
+    },
+    {
+      "field": "농업생산/경영",
+      "count": 5
+    },
+    {
+      "field": "정치외교학",
+      "count": 4
+    },
+    {
+      "field": "기독교신학",
+      "count": 4
+    },
+    {
+      "field": "교육사학",
+      "count": 4
+    },
+    {
+      "field": "조경학",
+      "count": 3
+    },
+    {
+      "field": "한문비평",
+      "count": 3
+    },
+    {
+      "field": "불교학",
+      "count": 3
+    },
+    {
+      "field": "무용",
+      "count": 2
+    },
+    {
+      "field": "고전산문",
+      "count": 2
+    },
+    {
+      "field": "응용불교학",
+      "count": 2
+    },
+    {
+      "field": "기타예술체육",
+      "count": 2
+    },
+    {
+      "field": "기타체육",
+      "count": 2
+    },
+    {
+      "field": "중국",
+      "count": 2
+    },
+    {
+      "field": "한문학",
+      "count": 2
+    },
+    {
+      "field": "기타무용",
+      "count": 2
+    },
+    {
+      "field": "교과교육학",
+      "count": 2
+    },
+    {
+      "field": "국문학사",
+      "count": 2
+    },
+    {
+      "field": "과학/자연철학",
+      "count": 1
+    },
+    {
+      "field": "동양사",
+      "count": 1
+    },
+    {
+      "field": "기타국어학",
+      "count": 1
+    },
+    {
+      "field": "행정사",
+      "count": 1
+    },
+    {
+      "field": "한의학",
+      "count": 1
+    },
+    {
+      "field": "교육철학/사상",
+      "count": 1
+    },
+    {
+      "field": "기타과학기술학",
+      "count": 1
+    },
+    {
+      "field": "법학",
+      "count": 1
+    },
+    {
+      "field": "교회사",
+      "count": 1
+    },
+    {
+      "field": "초등교육",
+      "count": 1
+    },
+    {
+      "field": "미술이론",
+      "count": 1
+    },
+    {
+      "field": "기타역사학",
+      "count": 1
+    },
+    {
+      "field": "동양철학일반",
+      "count": 1
+    },
+    {
+      "field": "기타동양어문학",
+      "count": 1
+    },
+    {
+      "field": "기타불교학",
+      "count": 1
+    },
+    {
+      "field": "정신신체의학/자문조정정신의학",
+      "count": 1
+    },
+    {
+      "field": "행정학",
+      "count": 1
+    },
+    {
+      "field": "법학교육",
+      "count": 1
+    },
+    {
+      "field": "인문지리학",
+      "count": 1
+    },
+    {
+      "field": "기타역사일반",
+      "count": 1
+    },
+    {
+      "field": "음악학",
+      "count": 1
+    },
+    {
+      "field": "교사교육",
+      "count": 1
+    },
+    {
+      "field": "한국중세고고학",
+      "count": 1
+    },
+    {
+      "field": "문학",
+      "count": 1
+    },
+    {
+      "field": "한국고대사",
+      "count": 1
+    },
+    {
+      "field": "기타중문학",
+      "count": 1
+    }
+  ],
+  "topCitedPapers": [
+    {
+      "title": "‘주자 수양론에서 성(性)과 성향― 기질변화설의 성품윤리적 의미―",
+      "author": "이승환",
+      "year": 2007,
+      "journal": "동양철학",
+      "citations": 35
+    },
+    {
+      "title": "涵養論과 교육과정으로 본 조선성리학의 개성",
+      "author": "이봉규",
+      "year": 2010,
+      "journal": "퇴계학보",
+      "citations": 32
+    },
+    {
+      "title": "학안에서 철학사로 : 조선유학사 서술의 관점과 방식에 대한 검토",
+      "author": "김태년",
+      "year": 2010,
+      "journal": "한국학연구",
+      "citations": 32
+    },
+    {
+      "title": "성리학의 수양론에 나타난 심-신 관계 연구:주희(朱熹) 심리철학에서 지향성의 문제를 중심으로",
+      "author": "이승환",
+      "year": 2005,
+      "journal": "중국학보",
+      "citations": 30
+    },
+    {
+      "title": "유가적 전통에서의 인성교육",
+      "author": "박의수",
+      "year": 2007,
+      "journal": "교육문제연구",
+      "citations": 28
+    },
+    {
+      "title": "맹자 도덕철학에서 이성과 감성의 문제",
+      "author": "류근성",
+      "year": 2007,
+      "journal": "동양철학연구",
+      "citations": 27
+    },
+    {
+      "title": "氣質變化, 욕망의 정화를 위한 성리학적 기획 －栗谷李珥의 心性修養論을 중심으로－",
+      "author": "김형찬",
+      "year": 2009,
+      "journal": "철학연구",
+      "citations": 26
+    },
+    {
+      "title": "유학(儒學)에서의 공공성 논의: 행정학 맥락에서 이해하기",
+      "author": "배수호",
+      "year": 2014,
+      "journal": "한국행정학보",
+      "citations": 24
+    },
+    {
+      "title": "18세기 文學觀의 변화와 ‘개인’과 ‘개체’의 발견(1) － 程朱學的 이념의 해체와 ‘개인’ 중심 문학관의 출현 －",
+      "author": "박경남",
+      "year": 2010,
+      "journal": "동양한문학연구",
+      "citations": 24
+    },
+    {
+      "title": "聖學輯要를 통해 본 聖人의 학문과 정치",
+      "author": "리기용",
+      "year": 2005,
+      "journal": "한국사상과 문화",
+      "citations": 22
+    }
+  ]
+}
